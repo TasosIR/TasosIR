@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tasos</h1>
 <h3 align="center">A passionate Junior Web Developer from Greece</h3>
  
-<img aling="right" alt="coding width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img aling="right"  alt="coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasosir&label=Profile%20views&color=0e75b6&style=flat" alt="tasosir" /> </p>
 
 - 📫 How to reach me **tasosir4@gmail.com**
 
-- ⚡ Fun fact **I think Iam funny**
+- ⚡ Fun fact **I think Iam funny 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
