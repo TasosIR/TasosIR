@@ -3,6 +3,8 @@
  
  <div aling="center">
    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="display:block; margin-left: auto; margin-right:auto;">
+ </div>
+ 
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasosir&label=Profile%20views&color=0e75b6&style=flat" alt="tasosir" /> </p>
