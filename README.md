@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Junior Web Developer from Greece</h3>
  
  <div aling="center">
-   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="display:block; margin-left: auto; margin-right:auto;">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasosir&label=Profile%20views&color=0e75b6&style=flat" alt="tasosir" /> </p>
