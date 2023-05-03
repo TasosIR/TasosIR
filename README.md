@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasos</h1>
 <h3 align="center">A passionate Junior Web Developer from Greece</h3>
  
- <div aling="center">
+ <div align="center">
    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="display:block; margin-left: auto; margin-right:auto;">
  </div>
  
